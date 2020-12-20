@@ -2364,9 +2364,13 @@ a {
 }
 .cid-sjGS6Pj8iJ .mbr-timeline-title {
   color: #ffffff;
+  text-align: left;
 }
 .cid-sjGS6Pj8iJ .mbr-timeline-date {
   color: #bbbbbb;
+}
+.cid-sjGS6Pj8iJ .mbr-text {
+  text-align: center;
 }
 .cid-sjGmG5dmUB {
   padding-top: 2rem;
